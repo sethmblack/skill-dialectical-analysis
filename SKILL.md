@@ -3,8 +3,8 @@ name: dialectical-analysis
 description: A skill for tracing contradictions through their development to reveal how opposites are sublated into higher unities.
 license: MIT
 metadata:
+  version: 1.0.3823
   author: sethmblack
-  version: 1.0.3822
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialectical-analysis
